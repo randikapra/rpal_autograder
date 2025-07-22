@@ -1143,6 +1143,7 @@ This tool was born from the frustration of manually grading 150+ RPAL interprete
 ---
 
 </details>
+
 ## 💡 Pro Tips for Maximum Effectiveness
 
 ### For Instructors
