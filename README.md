@@ -169,27 +169,8 @@ python3 rpal_grader.py --report-format html workspace/
 | 📂 No results generated | Check workspace structure | [Workspace Setup →](#workspace-setup) |
 
 
-## 🏆 Recognition & Impact
-### 🎓 Academic Adoption
-<div align="center">	
-![Universities](https://img.shields.io/badge/universities-5+-blue.svg?style=social&logo=university)
-![Instructors](https://img.shields.io/badge/instructors-12+-green.svg?style=social&logo=person)
-![Students](https://img.shields.io/badge/students%20served-1500+-orange.svg?style=social&logo=group)
-</div>
-
-<b>🏫 Successfully Deployed At:</b>
-- University of Moratuwa - Computer Science & Engineering
-- International Institute of Technology - Software Engineering Program  
-- Sri Lanka Institute of Technology - Programming Languages Course
-- Multiple international CS programs via GitHub
-
-<b>📈 Real-World Results:</b>
-> <I>"This autograder has been a game-changer for our Programming Languages course. What used to take our TA team an entire week now completes overnight with higher accuracy."</I>
-> 
-> <b>— Dr. Adeesha Wijayasiri, CSE Department</b>
-
-<div align="center">
 <h3> 🔬 Project Impact</h3>
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
@@ -264,7 +245,7 @@ python3 rpal_grader.py --report-format html workspace/
 ---
 
 <details>
-<summary><b> ## ⚡ Quick Start (Detailed) </b></summary>
+<summary><b> ⚡ Quick Start (Detailed) </b></summary>
 
 
 ### 🚀 **5-Minute Complete Setup**
@@ -464,7 +445,7 @@ xychart-beta
 ---
 
 <details>
-<summary>## 📖 Detailed Usage</summary>
+<summary> 📖 Detailed Usage</summary>
 
 ### 🎛️ **Command Line Interface**
 
