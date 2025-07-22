@@ -383,8 +383,9 @@ xychart-beta
 
 ---
 
+<details>
 ## 📁 Repository Structure
-
+<summary>Click here to expand</summary>
 <div>
 
 ```
@@ -441,7 +442,7 @@ xychart-beta
 ```
 
 </div>
-
+</details>
 ---
 
 <details>
